@@ -6,6 +6,9 @@
 
 int main()
 {
+  /*
+  * Prueba de Vector 2
+  */
   Vector2 v1(3.0f, 4.0f);
   Vector2 v2;
   Vector2 v3 = v1 + Vector2(1.0f, 2.0f);

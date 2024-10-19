@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="MathLib.cpp" />
-    <ClCompile Include="src\Vector2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Include\Prerequisitos.h" />
