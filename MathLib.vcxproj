@@ -139,11 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MathLib.cpp" />
+    <ClCompile Include="PruebaVectores.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Include\Prerequisitos.h" />
+    <ClInclude Include="Include\Utilities.h" />
+    <ClInclude Include="Include\Quaternion.h" />
     <ClInclude Include="Include\Vector2.h" />
+    <ClInclude Include="Include\Vector3.h" />
+    <ClInclude Include="Include\Vector4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
